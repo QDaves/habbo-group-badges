@@ -248,7 +248,7 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID: s51/b></td>
+<td><b>ID: s51</b></td>
 <td><b>ID: s52</b></td>
 <td><b>ID: s53</b></td>
 <td><b>ID: s54</b></td>
