@@ -379,16 +379,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 1</b></td>
-<td><b>ID 2</b></td>
-<td><b>ID 3</b></td>
-<td><b>ID 4</b></td>
-<td><b>ID 5</b></td>
-<td><b>ID 6</b></td>
-<td><b>ID 7</b></td>
-<td><b>ID 8</b></td>
-<td><b>ID 9</b></td>
-<td><b>ID 10</b></td>
+<td><b>ID: t00</b></td>
+<td><b>ID: t01</b></td>
+<td><b>ID: t02</b></td>
+<td><b>ID: t03</b></td>
+<td><b>ID: t04</b></td>
+<td><b>ID: t05</b></td>
+<td><b>ID: t06</b></td>
+<td><b>ID: t07</b></td>
+<td><b>ID: t08</b></td>
+<td><b>ID: t09</b></td>
 </tr>
 
 <tr>
@@ -406,16 +406,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 11</b></td>
-<td><b>ID 12</b></td>
-<td><b>ID 13</b></td>
-<td><b>ID 14</b></td>
-<td><b>ID 15</b></td>
-<td><b>ID 16</b></td>
-<td><b>ID 17</b></td>
-<td><b>ID 18</b></td>
-<td><b>ID 19</b></td>
-<td><b>ID 20</b></td>
+<td><b>ID: t10</b></td>
+<td><b>ID: t11</b></td>
+<td><b>ID: t12</b></td>
+<td><b>ID: t13</b></td>
+<td><b>ID: t14</b></td>
+<td><b>ID: t15</b></td>
+<td><b>ID: t16</b></td>
+<td><b>ID: t17</b></td>
+<td><b>ID: t18</b></td>
+<td><b>ID: t19</b></td>
 </tr>
 
 <tr>
@@ -433,16 +433,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 21</b></td>
-<td><b>ID 22</b></td>
-<td><b>ID 23</b></td>
-<td><b>ID 24</b></td>
-<td><b>ID 25</b></td>
-<td><b>ID 26</b></td>
-<td><b>ID 27</b></td>
-<td><b>ID 28</b></td>
-<td><b>ID 29</b></td>
-<td><b>ID 30</b></td>
+<td><b>ID: t20</b></td>
+<td><b>ID: t21</b></td>
+<td><b>ID: t22</b></td>
+<td><b>ID: t23</b></td>
+<td><b>ID: t24</b></td>
+<td><b>ID: t25</b></td>
+<td><b>ID: t26</b></td>
+<td><b>ID: t27</b></td>
+<td><b>ID: t28</b></td>
+<td><b>ID: t29</b></td>
 </tr>
 
 <tr>
@@ -460,16 +460,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 31</b></td>
-<td><b>ID 32</b></td>
-<td><b>ID 33</b></td>
-<td><b>ID 34</b></td>
-<td><b>ID 35</b></td>
-<td><b>ID 36</b></td>
-<td><b>ID 37</b></td>
-<td><b>ID 38</b></td>
-<td><b>ID 39</b></td>
-<td><b>ID 40</b></td>
+<td><b>ID: t30</b></td>
+<td><b>ID: t31</b></td>
+<td><b>ID: t32</b></td>
+<td><b>ID: t33</b></td>
+<td><b>ID: t34</b></td>
+<td><b>ID: t35</b></td>
+<td><b>ID: t36</b></td>
+<td><b>ID: t37</b></td>
+<td><b>ID: t38</b></td>
+<td><b>ID: t39</b></td>
 </tr>
 
 <tr>
@@ -487,16 +487,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 41</b></td>
-<td><b>ID 42</b></td>
-<td><b>ID 43</b></td>
-<td><b>ID 44</b></td>
-<td><b>ID 45</b></td>
-<td><b>ID 46</b></td>
-<td><b>ID 47</b></td>
-<td><b>ID 48</b></td>
-<td><b>ID 49</b></td>
-<td><b>ID 50</b></td>
+<td><b>ID: t40</b></td>
+<td><b>ID: t41</b></td>
+<td><b>ID: t42</b></td>
+<td><b>ID: t43</b></td>
+<td><b>ID: t44</b></td>
+<td><b>ID: t45</b></td>
+<td><b>ID: t46</b></td>
+<td><b>ID: t47</b></td>
+<td><b>ID: t48</b></td>
+<td><b>ID: t49</b></td>
 </tr>
 
 <tr>
@@ -514,15 +514,15 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 51</b></td>
-<td><b>ID 52</b></td>
-<td><b>ID 53</b></td>
-<td><b>ID 54</b></td>
-<td><b>ID 55</b></td>
-<td><b>ID 56</b></td>
-<td><b>ID 57</b></td>
-<td><b>ID 58</b></td>
-<td><b>ID 59</b></td>
+<td><b>ID: t50</b></td>
+<td><b>ID: t51</b></td>
+<td><b>ID: t52</b></td>
+<td><b>ID: t53</b></td>
+<td><b>ID: t54</b></td>
+<td><b>ID: t55</b></td>
+<td><b>ID: t56</b></td>
+<td><b>ID: t57</b></td>
+<td><b>ID: t58</b></td>
 </tr>
 
 <tr>
