@@ -49,25 +49,8 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><b>ID 8</b></td>
 <td><b>ID 9</b></td>
 <td><b>ID 10</b></td>
-<td><b>ID 11</b></td>
-<td><b>ID 12</b></td>
-<td><b>ID 13</b></td>
-<td><b>ID 14</b></td>
-<td><b>ID 15</b></td>
-<td><b>ID 16</b></td>
-<td><b>ID 17</b></td>
-<td><b>ID 18</b></td>
-<td><b>ID 19</b></td>
-<td><b>ID 20</b></td>
-<td><b>ID 21</b></td>
-<td><b>ID 22</b></td>
-<td><b>ID 23</b></td>
-<td><b>ID 24</b></td>
-<td><b>ID 25</b></td>
-<td><b>ID 26</b></td>
-<td><b>ID 27</b></td>
-<td><b>ID 28</b></td>
 </tr>
+
 <tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b011208e970587dc251481d734bd9315d6f086.gif"></td>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b0212032986cb5f8a9ebf3ee8966782d421ee2.gif"></td>
@@ -79,6 +62,24 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b081209fc49879657894cbe937ae47f8ec2ec7.gif"></td>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b0912008c0a4b2292f088b151f882bc42ef4a0.gif"></td>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b101203123eadfb7c400aafaa28987bfe14feb.gif"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><b>ID 11</b></td>
+<td><b>ID 12</b></td>
+<td><b>ID 13</b></td>
+<td><b>ID 14</b></td>
+<td><b>ID 15</b></td>
+<td><b>ID 16</b></td>
+<td><b>ID 17</b></td>
+<td><b>ID 18</b></td>
+<td><b>ID 19</b></td>
+<td><b>ID 20</b></td>
+</tr>
+
+<tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b11120e535661c30e6bac187019a52427f7b4a.gif"></td>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b12120bddeac5d30eac3ff1359faf06de1f230.gif"></td>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b131209642c0d1ff28ab927d2926a8fab8e1fc.gif"></td>
@@ -89,6 +90,21 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b18120da3469934d7c1aa5e0f14ddda76d7b48.gif"></td>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b191203eabb7347eee2954b13647380c473902.gif"></td>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b20120e5221add96c902a553375d5e77652184.gif"></td>
+</tr>
+</table>
+<table>
+<tr>
+<td><b>ID 21</b></td>
+<td><b>ID 22</b></td>
+<td><b>ID 23</b></td>
+<td><b>ID 24</b></td>
+<td><b>ID 25</b></td>
+<td><b>ID 26</b></td>
+<td><b>ID 27</b></td>
+<td><b>ID 28</b></td>
+</tr>
+
+<tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b211204df307402887c8b44f231c37ab2ee317.gif"></td>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b22120fd9440931d8a7b1e48fd7e952f0249a7.gif"></td>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b23120538a0f90059c9e4151bfe48a0f287da3.gif"></td>
@@ -100,19 +116,6 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </tr>
 </table>
 
-#### Additional
-<table>
-<tr>
-<td><b>ID 1</b></td>
-<td><b>ID 2</b></td>
-<td><b>ID 3</b></td>
-</tr>
-<tr>
-<td><img src="https://www.habbo.com/habbo-imaging/badge/s010142f93213435a0f8a2ee6e57d326acb761"></td>
-<td><img src="https://www.habbo.com/habbo-imaging/badge/s02014077252640988ad6ffbfbe81b9d7caa05"></td>
-<td><img src="https://www.habbo.com/habbo-imaging/badge/s030140f7437c1b7f92d36acb53d331a834859"></td>
-</tr>
-</table>
 
 ### Colors
 
