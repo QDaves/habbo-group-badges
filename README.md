@@ -130,21 +130,19 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><b>ID 9</b></td>
 <td><b>ID 10</b></td>
 </tr>
-
 <tr>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s0112061f4a7c0ab938117d9b8a2799ee0a058.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s02120ada3212b74cbe49caf606e0e0d70e4eb.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s031207618f6f0ba93034c49259a4928520232.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s04120a3a7a47255e60bef0e037c3eda3bd93c.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s051202cf9b05141451e2dac0fdc70ecdebef5.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s06120f2e55a2df2985998b2fe01c4ab088b52.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s07120383e5d99f741d90d2ca3be5968ccf8e3.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s081208214885a23e3a9a577b71134fb38afff.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s091207e93f2f7320b51147a79414ec489bded.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s101205e98bd4927de1b5c5b38b0d3413eb3dc.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s011245386582bffcd2120314718564e688eae.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s0212460ebb3b272def888c7a67d1fa897dcaf.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s03124958973280f42185fbe9a33f58b9d3241.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s041245d1cebe410fd6841e630d4515eadee46.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s051242dba9550b0ca38978a2447af1f596ed5.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s06124615c94e2ae0ba2b964d6f8e3f60a99d3.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s0712453b2506d862f64259c7fb2ea61c7bbc1.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s08124eea7932d7aa26081b7bb3d3707824f57.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s091247185d316deb02c0dea7641addb92e7b0.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s10124e04c02c25fd47f13b3bdc7762e35bf1c.gif"></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td><b>ID 11</b></td>
@@ -158,19 +156,19 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><b>ID 19</b></td>
 <td><b>ID 20</b></td>
 </tr>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s11120d64c1873ba20379b3c4ead15c5bbafc1.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s1212078f247c2b7ae76b9f01d9bc4dafd48dd.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s131204a15453c5e16b2b1d97a44d06369aaee.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s141200767ef113c6f2b44b00acda6920cb6b5.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s15120588e87f1333472318a7c06d63451ed51.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s16120b0f28e1db343d0c74515c1ec000bb4ce.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s1712007a27c9fc65cf92cb3b696774af14a53.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s18120251f6c873bf2c508ea7a36e4939aded2.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s19120bbedb5efd605579fb7c04a0ad6456b84.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s20120c5f3e298bddc1a9ab79c7131e42f30d3.gif"></td>
+<tr>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s111242ecd29d55ec268fa27eff4a7211a7c09.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s1212453cb401607955e1b9117247104bb6ebf.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s131249531ea3045a7a6483027aaca7d31caef.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s14124e9756cc849c4cf356bce100364763056.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s151241a825cfdff3327f30feec3b2739543f9.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s16124eed7169ad8ba19566ac1e153db1f8e9a.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s1712467c45b48a8ef350b8e5ee368fec65b3a.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s181245015d7b6297a08745130d404f1aeadaf.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s191246daaad4ef8bc17ceca88416e74f048d0.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s2012462b9d1b62163d8f7c8df59a04616a00e.gif"></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td><b>ID 21</b></td>
@@ -185,16 +183,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><b>ID 30</b></td>
 </tr>
 <tr>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s211202df1b4c826a963ae26c5b128976127fe.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s22120928520d4b2c30277b2778bc56ce9c74f.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s23120133220c00372d63e0de7b936695159d0.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s2412001d73c22a119e802202041c3e4677c25.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s251208a40113994c0f0f3ef65470fe94ff04c.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s26120523f1cff021c4ccd5953078c4a0c5ba9.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s2712000fc7b514efbd793434dd2673dc3385a.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s28120987f821cfc93b67ec0c743aeb012b202.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s29120cd14ac242164fe1a7dc7d68ddcefffad.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s30120f1a3d013587d85f13892ac658036278c.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s211243cd45eb4072c56e18e0f7a647b4a97a0.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s22124c316ad01a65bf7c6ce12e6ccf4d7aff7.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s231244deb5b3e54af46253ce388a8fc465e23.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s24124769f691ba85494c0f4d7d02ac62a538c.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s251243cfb70cd59324fca988dfdf025da986a.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s2612437de1112ae8ff436a373d8f8ae89061c.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s271241de8eef7795b9d99e883d8775bf50edf.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s28124decd9d12830ebef3984553ab5af87f4f.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s291244947cc92022a180a3339b8fd12985421.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s301243a1387d4676133151094a7d5a152b873.gif"></td>
 </tr>
 </table>
 <table>
@@ -210,20 +208,19 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><b>ID 39</b></td>
 <td><b>ID 40</b></td>
 </tr>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s311202f66475cb08233cdd9597b6d4585945c.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s32120eb64cdb89ac836c49dbff9a925f3e5cf.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s33120feb3cd1c029bd8d3bcefa88514513436.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s341202cea3f94766563b73c57fe459c1f5bcc.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s3512064520b80ebf423e5df37a82acee04847.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s3612063ce85a24b5e73b1fc270cf2ea070b6b.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s3712016d24003abb6f1a084c65a4c93e6899e.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s38120ddd729bc85eb66d6738d2083f7350a83.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s391205878b6baf4f68d3cbba4aadd5db0c870.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s40120f122f212b12a0ea3473a1357dd2218f8.gif"></td>
-
+<tr>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s31124023129768796b87265573ad4701b4bd6.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s32124bb4a03deac1a6d46d578b499f0d60fde.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s33124188830c786719cec1362342e97a2713a.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s341245abdaabb8593f74d45a4a0d3f7c9852b.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s35124de90e59c5f58a184a5d4b954d3fb027f.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s3612419ad66c11665a8813f9423b440b6d0d8.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s3712461206bede1e4f3349871210b52a77f4f.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s3812448e4d3c0288867003fedd84feb146373.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s39124fd6aed9b28a37588668854529b97de17.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s4012442e881525fb12009cf6d92062a571c5d.gif"></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td><b>ID 41</b></td>
@@ -238,16 +235,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><b>ID 50</b></td>
 </tr>
 <tr>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s41120d0c6953308cab6e95811c8903da34800.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s421206d419ad76fd6d21eb16b37dd5b59fd05.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s43120650cb7f3be9f6ae4636dd277eb85dc66.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s441206a8ac74820a484c1144f4dc4884febfe.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s45120ca91b4bd06ec8809cb84b3eca59a5b65.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s46120c7e76e9cc4bf1047319a1cc0864b21c8.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s4712051b0b00f70e81a12154da708aff0c723.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s4812058b04c196c48185cfd93d8e258fb9dbe.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s491204fe354bc0dba4af0992acbbcdbce22a9.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s50120099cffcec3c170d1fbbb385e1efbd870.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s4112455a9d0519a388978268d22045f57b043.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s421243ac77fef355cfec232fc0990abb70958.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s43124e7ae66fb86d7b13d3b376ad15e24efd7.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s441248128680323ddc4047ded4ab58bce504c.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s45124929d1a8a1c1ae6abc0eb39b56bb6615b.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s46124e0b8389b3c0e3ee0195ecc3a76f6daef.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s47124bc5a9cc424b8722a247cb03df0a24aa6.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s48124f3d98116636f8f555796e28eb12d7d57.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s49124c4c9c2a6293b4aca1dc170a6b0ff0c08.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s501243f5aaf6e2579fe3f9e5b0e3c1fc759cf.gif"></td>
 </tr>
 </table>
 <table>
@@ -263,20 +260,19 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><b>ID 59</b></td>
 <td><b>ID 60</b></td>
 </tr>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s511208b1acffab20da495e4807daa0a9d72a7.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s52120f49add513c2bc35c2c68b07929710d4a.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s531200a290b0e1cb80bd70326031fa2eafc06.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s54120804345cf0fc14217e7495d5be7b49b92.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s55120814c758d148d5a710fe20710c80c0806.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s56120f5c38515e12861af1f62402f4fb4fba5.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s5712029db7c4c6a3cea502db20b34cb4aca5d.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s581200a750329c51538f52ad0055c79c72eb1.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s5912060a83647ef5f1032258853021d968e95.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s6012073017a6e770fe625de9f422929ddc421.gif"></td>
-
+<tr>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s5112461e923835c06dd41376737d1ae73859c.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s521248158874630af7cba2d6c92acde075c1e.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s53124acb6b0805b29ce4aa8e5d9acc505423e.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s541245b1512cd2ca38bfd8db1d212b7227e84.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s55124254a1b3b3ced3c330d55f6b1a997a096.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s56124b63097d346aafc85a8296307216a2873.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s571240e9676c26b76297debfea8c1f79a71ce.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s58124e553163453b607d64841dbdf7cfb4d95.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s59124f0d167c618876de0743220b87c963a14.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s60124ec84224f9a7b3c88965c7a25d9f62ae4.gif"></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td><b>ID 61</b></td>
@@ -291,16 +287,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><b>ID 70</b></td>
 </tr>
 <tr>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s61120554a68021464d12373403b87c14e24b1.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s62120f7bc82e48e15234aeb46b1b27d05f929.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s631208c77e92110e2b6cb817415dec8ab3fb2.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s641200c2f0fa765f1c4f901c0035c992813de.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s65120813dc417341386b1a8c9594c4ba2c857.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s66120eb7d0df6d87443d8dc408a3759f8f781.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s671207e3b27cc6f40626ffe1e5616923069bc.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s68120a6a7ebc6be83ba054399bc29275d9b44.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s691204c3c7d33e2dc6091d709e01652df0991.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s701203de0a3565438dbe1147853c196cd09c3.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s61124add2c37d823d1401bc78e41c80e6c7a1.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s62124b04ab805780e8578fd11ad37c83d56d6.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s63124dc8255ed87c7765655cca965f5ed893b.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s641246dc3f6bba6901a868c58367ef7bdf83b.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s65124d4766fc99f5f68f09c5d4f6373184113.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s6612486b4b8d1662ccd74777897e420daffb6.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s67124f1a8c205ca9304b1e42d2f1b5a88403a.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s68124d3dc9d1f652b353679340a5f0c58dd6b.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s69124e1f3607025dc4b6021102d7d87fa821a.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s70124d0c92d0aaa8735a904cdb0360a6e3408.gif"></td>
 </tr>
 </table>
 <table>
@@ -316,16 +312,17 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><b>ID 79</b></td>
 <td><b>ID 80</b></td>
 </tr>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s711201affa62fb8d0e1f90659ea2d96927af8.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s72120f16fa6e8039910dc07bed52e42111787.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s73120a0df2047e9607c073aa6b211b0f57184.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s7412028158c30d7eba38d2bc9d445fc0ad3f8.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s751209b103ff2970b5bffba6debe4da02841a.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s76120333ef08ae8700e860cdeb190d24d7c8d.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s77120527b0ac230e78598720731da69335b18.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s781206c146d80f62e105ad73c5e494c4b2085.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s79120dbfb42d6b04b7c5e47187102f50e26aa.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s80120202d91f1031461e2b08c6cd6b49614f7.gif"></td>
+<tr>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s711240b517641bc5754ee759d46597f44c436.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s721240eff82b47765df167065570dd842e566.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s731247d85457c78c29580a58ed5e1d8ca9603.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s74124b40fd046f5a8b9335e4a58253d7ec57e.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s75124395438e6cdb5e9c5c959a27f69b34a14.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s761246f3e7376b26077a59bf99b15fc3e2b62.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s771249b0379878a838ca3e52be470249f8e95.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s78124762ef43c66c559e5923d8fe739cb5988.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s79124304c9effdc5064e4b7a95f3b951c1dc7.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s8012446144369211506f7147b0027ac52b6f0.gif"></td>
 
 </tr>
 </table>
@@ -344,16 +341,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><b>ID 90</b></td>
 </tr>
 <tr>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s811209b22b9ef35160086271952a742120a77.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s8212063217a5734ca0f32f493e9b74062aa88.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s83120224ea0d63108620c058be4292a35038c.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s84120ada2c4cb152057c1484a02abf598ad9b.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s8512013fd3100bcba34753c13e054f40a0c94.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s86120d0ac6fa26a178f35546c0f2c15756871.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s87120c90c501b2519352b48dac92b75afb61b.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s88120fe1f59bed1db62fc84975623eff8e004.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s89120ebbabb6c67edc5d627f4894a3a361fd8.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s90120ededf38f228f0233a292ae94141ecc75.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s811241be22bb201854d7c95afdbfe78d7db03.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s82124f220665c9af6791f750e31bb44c82d0f.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s83124782282f5c0e798ecb453a5026c14f589.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s84124422d0943a6f2491dea1ed66403e63014.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s851249cc69336dc48aecb21c82300d23d9099.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s86124d73b4096d221c8442c503c635256379e.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s87124386c6dc72d38dce88f629679ec796d92.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s8812424ca1e30798dc4362ff1b84a19c78946.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s891244c030c00272234fe3e8e767294f73143.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s901242777c7962942009ba874204d2cb4e3da.gif"></td>
 </tr>
 </table>
 <table>
@@ -368,19 +365,18 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><b>ID 98</b></td>
 <td><b>ID 99</b></td>
 </tr>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s911206fbc5f8929c02a2da86fe96855022f93.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s9212058a60c5b91a93918b92388305d0fab2e.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s9312044fc5c5d7c338ee6d544dfdd6d180613.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s941204618fdd8ed680205c5d34aee67cf2c8b.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s95120a04cb8b744683bede05fcd66bdedf25c.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s961207a61380557e6ef992be94a0b6fcd60ce.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s97120dd9fde483a087866ba02c29ed3ef5d96.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s98120ad50200599abcba289ebd2d5c1d6f4b1.gif"></td>
-<td><img src="https://www.habbo.nl/habbo-imaging/badge/s99120b2c944403cfb751f19161949c4ac8aed.gif"></td>
-
+<tr>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s91124ffba94f98be511aba4f270d3cb3f0670.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s92124fa56b72125fa21e21f5aaed9847fc8ea.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s93124975703c229a96a1c9756d555267cc4f2.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s9412457ddbe972a5b11f2677b9853c53f0111.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s951246f25102a519da4535b75ce7b01c19f51.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s961248d375b9fa6f35cb57d5e727f5fe3423b.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s97124713ab7c532af0a7bcc8cc6db1418300c.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s981244c604858828968334d51ecf6c486f890.gif"></td>
+<td><img src="https://www.habbo.nl/habbo-imaging/badge/s99124a406923c3a200bb53804ee78e82acb4e.gif"></td>
 </tr>
 </table>
-
 
 ### Colors
 
