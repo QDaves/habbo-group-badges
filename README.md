@@ -39,16 +39,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 #### Base
 <table>
 <tr>
-<td><b>ID 1</b></td>
-<td><b>ID 2</b></td>
-<td><b>ID 3</b></td>
-<td><b>ID 4</b></td>
-<td><b>ID 5</b></td>
-<td><b>ID 6</b></td>
-<td><b>ID 7</b></td>
-<td><b>ID 8</b></td>
-<td><b>ID 9</b></td>
-<td><b>ID 10</b></td>
+<td><b>ID: b01</b></td>
+<td><b>ID: b02</b></td>
+<td><b>ID: b03</b></td>
+<td><b>ID: b04</b></td>
+<td><b>ID: b05</b></td>
+<td><b>ID: b06</b></td>
+<td><b>ID: b07</b></td>
+<td><b>ID: b08</b></td>
+<td><b>ID: b09</b></td>
+<td><b>ID: b10</b></td>
 </tr>
 
 <tr>
@@ -67,16 +67,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 
 <table>
 <tr>
-<td><b>ID 11</b></td>
-<td><b>ID 12</b></td>
-<td><b>ID 13</b></td>
-<td><b>ID 14</b></td>
-<td><b>ID 15</b></td>
-<td><b>ID 16</b></td>
-<td><b>ID 17</b></td>
-<td><b>ID 18</b></td>
-<td><b>ID 19</b></td>
-<td><b>ID 20</b></td>
+<td><b>ID: b11</b></td>
+<td><b>ID: b12</b></td>
+<td><b>ID: b13</b></td>
+<td><b>ID: b14</b></td>
+<td><b>ID: b15</b></td>
+<td><b>ID: b16</b></td>
+<td><b>ID: b17</b></td>
+<td><b>ID: b18</b></td>
+<td><b>ID: b19</b></td>
+<td><b>ID: b20</b></td>
 </tr>
 
 <tr>
@@ -94,16 +94,15 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 21</b></td>
-<td><b>ID 22</b></td>
-<td><b>ID 23</b></td>
-<td><b>ID 24</b></td>
-<td><b>ID 25</b></td>
-<td><b>ID 26</b></td>
-<td><b>ID 27</b></td>
-<td><b>ID 28</b></td>
+<td><b>ID: b21</b></td>
+<td><b>ID: b22</b></td>
+<td><b>ID: b23</b></td>
+<td><b>ID: b24</b></td>
+<td><b>ID: b25</b></td>
+<td><b>ID: b26</b></td>
+<td><b>ID: b27</b></td>
+<td><b>ID: b28</b></td>
 </tr>
-
 <tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b211204df307402887c8b44f231c37ab2ee317.gif"></td>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/b22120fd9440931d8a7b1e48fd7e952f0249a7.gif"></td>
@@ -119,16 +118,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 #### Additional
 <table>
 <tr>
-<td><b>ID 1</b></td>
-<td><b>ID 2</b></td>
-<td><b>ID 3</b></td>
-<td><b>ID 4</b></td>
-<td><b>ID 5</b></td>
-<td><b>ID 6</b></td>
-<td><b>ID 7</b></td>
-<td><b>ID 8</b></td>
-<td><b>ID 9</b></td>
-<td><b>ID 10</b></td>
+<td><b>ID: s01</b></td>
+<td><b>ID: s02</b></td>
+<td><b>ID: s03</b></td>
+<td><b>ID: s04</b></td>
+<td><b>ID: s05</b></td>
+<td><b>ID: s06</b></td>
+<td><b>ID: s07</b></td>
+<td><b>ID: s08</b></td>
+<td><b>ID: s09</b></td>
+<td><b>ID: s010</b></td>
 </tr>
 <tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/s011245386582bffcd2120314718564e688eae.gif"></td>
@@ -145,16 +144,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 11</b></td>
-<td><b>ID 12</b></td>
-<td><b>ID 13</b></td>
-<td><b>ID 14</b></td>
-<td><b>ID 15</b></td>
-<td><b>ID 16</b></td>
-<td><b>ID 17</b></td>
-<td><b>ID 18</b></td>
-<td><b>ID 19</b></td>
-<td><b>ID 20</b></td>
+<td><b>ID: s11</b></td>
+<td><b>ID: s12</b></td>
+<td><b>ID: s13</b></td>
+<td><b>ID: s14</b></td>
+<td><b>ID: s15</b></td>
+<td><b>ID: s16</b></td>
+<td><b>ID: s17</b></td>
+<td><b>ID: s18</b></td>
+<td><b>ID: s19</b></td>
+<td><b>ID: s20</b></td>
 </tr>
 <tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/s111242ecd29d55ec268fa27eff4a7211a7c09.gif"></td>
@@ -171,16 +170,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 21</b></td>
-<td><b>ID 22</b></td>
-<td><b>ID 23</b></td>
-<td><b>ID 24</b></td>
-<td><b>ID 25</b></td>
-<td><b>ID 26</b></td>
-<td><b>ID 27</b></td>
-<td><b>ID 28</b></td>
-<td><b>ID 29</b></td>
-<td><b>ID 30</b></td>
+<td><b>ID: s21</b></td>
+<td><b>ID: s22</b></td>
+<td><b>ID: s23</b></td>
+<td><b>ID: s24</b></td>
+<td><b>ID: s25</b></td>
+<td><b>ID: s26</b></td>
+<td><b>ID: s27</b></td>
+<td><b>ID: s28</b></td>
+<td><b>ID: s29</b></td>
+<td><b>ID: s30</b></td>
 </tr>
 <tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/s211243cd45eb4072c56e18e0f7a647b4a97a0.gif"></td>
@@ -197,16 +196,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 31</b></td>
-<td><b>ID 32</b></td>
-<td><b>ID 33</b></td>
-<td><b>ID 34</b></td>
-<td><b>ID 35</b></td>
-<td><b>ID 36</b></td>
-<td><b>ID 37</b></td>
-<td><b>ID 38</b></td>
-<td><b>ID 39</b></td>
-<td><b>ID 40</b></td>
+<td><b>ID: s31</b></td>
+<td><b>ID: s32</b></td>
+<td><b>ID: s33</b></td>
+<td><b>ID: s34</b></td>
+<td><b>ID: s35</b></td>
+<td><b>ID: s36</b></td>
+<td><b>ID: s37</b></td>
+<td><b>ID: s38</b></td>
+<td><b>ID: s39</b></td>
+<td><b>ID: s40</b></td>
 </tr>
 <tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/s31124023129768796b87265573ad4701b4bd6.gif"></td>
@@ -223,16 +222,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 41</b></td>
-<td><b>ID 42</b></td>
-<td><b>ID 43</b></td>
-<td><b>ID 44</b></td>
-<td><b>ID 45</b></td>
-<td><b>ID 46</b></td>
-<td><b>ID 47</b></td>
-<td><b>ID 48</b></td>
-<td><b>ID 49</b></td>
-<td><b>ID 50</b></td>
+<td><b>ID: s41</b></td>
+<td><b>ID: s42</b></td>
+<td><b>ID: s43</b></td>
+<td><b>ID: s44</b></td>
+<td><b>ID: s45</b></td>
+<td><b>ID: s46</b></td>
+<td><b>ID: s47</b></td>
+<td><b>ID: s48</b></td>
+<td><b>ID: s49</b></td>
+<td><b>ID: s50</b></td>
 </tr>
 <tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/s4112455a9d0519a388978268d22045f57b043.gif"></td>
@@ -249,16 +248,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 51/b></td>
-<td><b>ID 52</b></td>
-<td><b>ID 53</b></td>
-<td><b>ID 54</b></td>
-<td><b>ID 55</b></td>
-<td><b>ID 56</b></td>
-<td><b>ID 57</b></td>
-<td><b>ID 58</b></td>
-<td><b>ID 59</b></td>
-<td><b>ID 60</b></td>
+<td><b>ID: s51/b></td>
+<td><b>ID: s52</b></td>
+<td><b>ID: s53</b></td>
+<td><b>ID: s54</b></td>
+<td><b>ID: s55</b></td>
+<td><b>ID: s56</b></td>
+<td><b>ID: s57</b></td>
+<td><b>ID: s58</b></td>
+<td><b>ID: s59</b></td>
+<td><b>ID: s60</b></td>
 </tr>
 <tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/s5112461e923835c06dd41376737d1ae73859c.gif"></td>
@@ -275,16 +274,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 61</b></td>
-<td><b>ID 62</b></td>
-<td><b>ID 63</b></td>
-<td><b>ID 64</b></td>
-<td><b>ID 65</b></td>
-<td><b>ID 66</b></td>
-<td><b>ID 67</b></td>
-<td><b>ID 68</b></td>
-<td><b>ID 69</b></td>
-<td><b>ID 70</b></td>
+<td><b>ID: s61</b></td>
+<td><b>ID: s62</b></td>
+<td><b>ID: s63</b></td>
+<td><b>ID: s64</b></td>
+<td><b>ID: s65</b></td>
+<td><b>ID: s66</b></td>
+<td><b>ID: s67</b></td>
+<td><b>ID: s68</b></td>
+<td><b>ID: s69</b></td>
+<td><b>ID: s70</b></td>
 </tr>
 <tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/s61124add2c37d823d1401bc78e41c80e6c7a1.gif"></td>
@@ -301,16 +300,16 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 71</b></td>
-<td><b>ID 72</b></td>
-<td><b>ID 73</b></td>
-<td><b>ID 74</b></td>
-<td><b>ID 75</b></td>
-<td><b>ID 76</b></td>
-<td><b>ID 77</b></td>
-<td><b>ID 78</b></td>
-<td><b>ID 79</b></td>
-<td><b>ID 80</b></td>
+<td><b>ID: s71</b></td>
+<td><b>ID: s72</b></td>
+<td><b>ID: s73</b></td>
+<td><b>ID: s74</b></td>
+<td><b>ID: s75</b></td>
+<td><b>ID: s76</b></td>
+<td><b>ID: s77</b></td>
+<td><b>ID: s78</b></td>
+<td><b>ID: s79</b></td>
+<td><b>ID: s80</b></td>
 </tr>
 <tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/s711240b517641bc5754ee759d46597f44c436.gif"></td>
@@ -323,22 +322,20 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/s78124762ef43c66c559e5923d8fe739cb5988.gif"></td>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/s79124304c9effdc5064e4b7a95f3b951c1dc7.gif"></td>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/s8012446144369211506f7147b0027ac52b6f0.gif"></td>
-
 </tr>
 </table>
-
 <table>
 <tr>
-<td><b>ID 81</b></td>
-<td><b>ID 82</b></td>
-<td><b>ID 83</b></td>
-<td><b>ID 84</b></td>
-<td><b>ID 85</b></td>
-<td><b>ID 86</b></td>
-<td><b>ID 87</b></td>
-<td><b>ID 88</b></td>
-<td><b>ID 89</b></td>
-<td><b>ID 90</b></td>
+<td><b>ID: s81</b></td>
+<td><b>ID: s82</b></td>
+<td><b>ID: s83</b></td>
+<td><b>ID: s84</b></td>
+<td><b>ID: s85</b></td>
+<td><b>ID: s86</b></td>
+<td><b>ID: s87</b></td>
+<td><b>ID: s88</b></td>
+<td><b>ID: s89</b></td>
+<td><b>ID: s90</b></td>
 </tr>
 <tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/s811241be22bb201854d7c95afdbfe78d7db03.gif"></td>
@@ -355,15 +352,15 @@ A `Badge part ID` is a 2-digit number that represents a certain image or shape i
 </table>
 <table>
 <tr>
-<td><b>ID 91</b></td>
-<td><b>ID 92</b></td>
-<td><b>ID 93</b></td>
-<td><b>ID 94</b></td>
-<td><b>ID 95</b></td>
-<td><b>ID 96</b></td>
-<td><b>ID 97</b></td>
-<td><b>ID 98</b></td>
-<td><b>ID 99</b></td>
+<td><b>ID: s91</b></td>
+<td><b>ID: s92</b></td>
+<td><b>ID: s93</b></td>
+<td><b>ID: s94</b></td>
+<td><b>ID: s95</b></td>
+<td><b>ID: s96</b></td>
+<td><b>ID: s97</b></td>
+<td><b>ID: s98</b></td>
+<td><b>ID: s99</b></td>
 </tr>
 <tr>
 <td><img src="https://www.habbo.nl/habbo-imaging/badge/s91124ffba94f98be511aba4f270d3cb3f0670.gif"></td>
