@@ -541,6 +541,73 @@ A `Color` is a 2-digit number that represents the color of a badge part. There i
 
 <img src="https://www.habbo.nl/habbo-imaging/badge/t41014935ea23c7318fc7943932593160409e7"> 
 
+<table>
+<tr>
+<td><b>ID: 01</b></td>
+<td><b>ID: 11</b></td>
+<td><b>ID: 02</b></td>
+<td><b>ID: 03</b></td>
+<td><b>ID: 04</b></td>
+<td><b>ID: 18</b></td>
+<td><b>ID: 05</b></td>
+<td><b>ID: 19</b></td>
+<td><b>ID: 06</b></td>
+<td><b>ID: 16</b></td>
+</tr>
+<tr>
+https://www.habbo.nl/habbo-imaging/badge/b010146bd426cb9d030c89ade736567216c65e
+https://www.habbo.nl/habbo-imaging/badge/b011142fdd85f596c15f3f5a094efa8e43b274
+https://www.habbo.nl/habbo-imaging/badge/b010248de08b3b022a330c4364505d59acab0a
+https://www.habbo.nl/habbo-imaging/badge/b01034f2b02c3754dd2212ba34ed036ab9ef39
+https://www.habbo.nl/habbo-imaging/badge/b0104468b7705b762360cfd3ea302047805fcb
+https://www.habbo.nl/habbo-imaging/badge/b011846f87e2ddfb82be8b333fd7233ca26fcb
+https://www.habbo.nl/habbo-imaging/badge/b0105452252a1798eedb63b24fd4695a7653ae
+https://www.habbo.nl/habbo-imaging/badge/b01194cdab02c79bc6dd692e5f76c3afb00ad8
+https://www.habbo.nl/habbo-imaging/badge/b0106444520f823a339633e5236f7aad366f64
+https://www.habbo.nl/habbo-imaging/badge/b0116422450aac17ece8c20296ff9ddcb509b4
+</tr>
+</table>
+<table>
+<tr>
+<td><b>ID: 07</b></td>
+<td><b>ID: 08</b></td>
+<td><b>ID: 09</b></td>
+<td><b>ID: 20</b></td>
+<td><b>ID: 21</b></td>
+<td><b>ID: 10</b></td>
+<td><b>ID: 22</b></td>
+<td><b>ID: 17</b></td>
+<td><b>ID: 14</b></td>
+<td><b>ID: 23</b></td>
+</tr>
+<tr>
+https://www.habbo.nl/habbo-imaging/badge/b01074f10ebd1aa34ea0707042c98231b3e93d
+https://www.habbo.nl/habbo-imaging/badge/b01084185d9f984f5699f4bfd9e0c823e9e8a4
+https://www.habbo.nl/habbo-imaging/badge/b010944241e8618665fb41a77dcd57b077b70f
+https://www.habbo.nl/habbo-imaging/badge/b01204f9085d26bc68d67460eec0ebb2c4c309
+https://www.habbo.nl/habbo-imaging/badge/b01214c9ab875af828cdb376b163769f457e54
+https://www.habbo.nl/habbo-imaging/badge/b01104a778199cdb3c201048696e7c46274f92
+https://www.habbo.nl/habbo-imaging/badge/b01224410cf45ed9b11dd240b1a26c78808f65
+https://www.habbo.nl/habbo-imaging/badge/b011749b8334052e17ac95c742e211389cfdcf
+https://www.habbo.nl/habbo-imaging/badge/b01144c9b930fd828637a0d07676ab7d29b80f
+https://www.habbo.nl/habbo-imaging/badge/b0123425da38e3b6cf1da2e5b5a89a593631e9
+</tr>
+</table>
+<table>
+<tr>
+<td><b>ID: 15</b></td>
+<td><b>ID: 12</b></td>
+<td><b>ID: 24</b></td>
+<td><b>ID: 13</b></td>
+</tr>
+<tr>
+https://www.habbo.nl/habbo-imaging/badge/b011541c4ef3210bd1661e23633b60e8e7838b
+https://www.habbo.nl/habbo-imaging/badge/b011245ebbfaa8eeca14c76ebe8873324775af
+https://www.habbo.nl/habbo-imaging/badge/b012449d87fbf60118a9653ae6c9cbbf13a1fd
+https://www.habbo.nl/habbo-imaging/badge/b011341995f602bae4a49f0cbb869ac06af0ad
+</tr>
+</table>
+
 ### Positions & Layers
 
 A `Position` is a single digit that represents the position of a badge part in your badge. There is 9 different possible positions (0-8), 0 being the upper left corner, 4 being the center and 8 being the bottom right corner. Some bigger badge parts will always be centered, regardless of the set position. A badge demonstrating all possible positions is displayed below.
