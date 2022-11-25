@@ -1,3 +1,5 @@
+#fork from https://github.com/why/group-badges
+
 # Habbo Hotel group badges
 This documentation explains how badges are structured and how they are hashed.
 
